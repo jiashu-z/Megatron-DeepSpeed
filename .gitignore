@@ -21,3 +21,12 @@ logs
 
 # Data folder
 bookcorpus_data/
+pretrain_gpt_distributed_data/
+
+# Checkpoint folder
+pretrain_gpt_distributed_checkpoint/
+
+.idea/
+
+# LSH
+LSH/
